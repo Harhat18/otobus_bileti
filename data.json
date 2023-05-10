@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "title": "Kamilkoç",
+    "imgURL": "https://www.gurkanbilgisu.com/wp-content/uploads/2017/09/kamilkoc-seyahat-otobus.png",
+    "price": "₺209",
+    "saat": "01:00",
+    "toplamsure": "9s 59dk"
+  },
+  {
+    "id": 1,
+    "title": "Metro",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Metro_Turizm_Logo.png",
+    "price": "₺205",
+    "saat": "05:00",
+    "toplamsure": "11s 59dk"
+  },
+  {
+    "id": 2,
+    "title": "Pamukkale",
+    "imgURL": "https://www.pamukkale.com.tr/images/logo4.png",
+    "price": "₺250",
+    "saat": "07:00",
+    "toplamsure": "8s 55dk"
+  },
+  {
+    "id": 3,
+    "title": "Ulusoy",
+    "imgURL": "https://www.istanbulkalesi.com.tr/Images/logo.png",
+    "price": "₺200",
+    "saat": "11:00",
+    "toplamsure": "12s 55dk"
+  },
+  {
+    "id": 4,
+    "title": "Tokat Seyehat",
+    "imgURL": "https://www.tokatseyahat.com.tr/images/logo.png",
+    "price": "₺215",
+    "saat": "10:00",
+    "toplamsure": "10s 55dk"
+  },
+  {
+    "id": 5,
+    "title": "Ulusoy",
+    "imgURL": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/partner/2671-sm.png",
+    "price": "₺185",
+    "saat": "15:00",
+    "toplamsure": "11s 25dk"
+  },
+  {
+    "id": 6,
+    "title": "Ulusoy",
+    "imgURL": "https://cdn2.enuygun.com/img/company_logos_bus/alanyalilar-turizm.png",
+    "price": "₺155",
+    "saat": "15:30",
+    "toplamsure": "12s 55dk"
+  },
+  {
+    "id": 7,
+    "title": "Ulusoy",
+    "imgURL": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/partner/2237-sm.png",
+    "price": "₺195",
+    "saat": "19:00",
+    "toplamsure": "11s 55dk"
+  },
+  {
+    "id": 8,
+    "title": "Ulusoy",
+    "imgURL": "https://www.sanalkirsehir.com/Images/logo.png",
+    "price": "₺230",
+    "saat": "22:00",
+    "toplamsure": "13s 55dk"
+  }
+]
